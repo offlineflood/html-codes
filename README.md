@@ -1,1 +1,1 @@
-# html-codes
+# HTML codes
